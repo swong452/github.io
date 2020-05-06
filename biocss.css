@@ -89,4 +89,8 @@ body {
       margin-right: auto;
       width: 50%;
       margin-top: 430px;
+      border-radius: 60%;
+      border: 1px solid purple;
+      padding: 5px;
+      opacity: 0.1;
   }
